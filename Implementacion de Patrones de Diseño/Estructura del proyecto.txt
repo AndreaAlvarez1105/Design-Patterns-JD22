@@ -1,0 +1,14 @@
+src/
+├── creacionales/
+│   ├── singleton/
+│   ├── factory/
+│   └── builder/
+├── estructurales/
+│   ├── adapter/
+│   ├── facade/
+│   └── decorator/
+├── comportamiento/
+│   ├── strategy/
+│   ├── observer/
+│   └── command/
+└── SistemaReservasApp.java
